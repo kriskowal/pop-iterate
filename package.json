@@ -1,0 +1,32 @@
+{
+  "name": "pop-iterate",
+  "version": "0.0.0",
+  "description": "A polymorphic iterate operator for arrays and other iterables",
+  "main": "pop-iterate.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasminum": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/pop-iterate.git"
+  },
+  "keywords": [
+    "pop",
+    "polymorphic",
+    "operator",
+    "iterate"
+  ],
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/pop-iterate/issues"
+  },
+  "homepage": "https://github.com/kriskowal/pop-iterate"
+}
