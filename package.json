@@ -1,6 +1,6 @@
 {
   "name": "pop-iterate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A polymorphic iterate operator for arrays and other iterables",
   "main": "pop-iterate.js",
   "directories": {
