@@ -6,10 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "jasminum": "^0.0.4"
+  "devDependencies": {
+    "jasminum": "^2.0.5"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jasminum test"
   },
